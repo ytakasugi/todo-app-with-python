@@ -13,3 +13,7 @@
 ## FastAPI
 
 * [[FastAPI] Python製のASGI Web フレームワーク FastAPIに入門する](https://qiita.com/bee2/items/75d9c0d7ba20e7a4a0e9)
+
+## Python
+
+* [Pythonで型指定するTypingの基本的な使い方まとめ](https://deecode.net/?p=530#List_Tuple_Set_Dict%E5%9E%8B%E3%81%AETyping)
